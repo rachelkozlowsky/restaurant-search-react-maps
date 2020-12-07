@@ -1,1 +1,1 @@
-# restaurant-search-react-maps
+#restaurants-search-maps-react
